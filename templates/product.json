@@ -178,23 +178,51 @@
         "heading_FAUdqE": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Your Skin, But Luminous.",
             "heading_size": "h1",
             "heading_tag": "h2"
+          }
+        },
+        "subheading_TeMVLm": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "subheading_UCP8KH": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Vegan · Collagen-Infused · Glass-Skin Finish",
+            "subheading_size": "h5",
+            "secondary_color": false
           }
         },
         "text_7Ak4tD": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>One twist. That's all it takes. The ORAVELLE Pink Collagen Glow Balm melts weightlessly into skin, delivering an instant dewy, lit-from-within radiance. Wear it bare for effortless glass skin — or layer it over makeup for a fresh, editorial finish. Multi-use. Pocket-size. Endlessly glowing.</p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_9gk6Ng": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_FAUdqE",
-        "text_7Ak4tD"
+        "subheading_TeMVLm",
+        "subheading_UCP8KH",
+        "text_7Ak4tD",
+        "button_9gk6Ng"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -260,23 +288,51 @@
         "heading_kDwt9J": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "90 Seconds to a Sculpted Face.",
             "heading_size": "h1",
             "heading_tag": "h2"
+          }
+        },
+        "subheading_9drFUK": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "subheading_aCWFHm": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Lymphatic Drainage · Jawline Definition · Ultra-Soft Bristles",
+            "subheading_size": "h5",
+            "secondary_color": false
           }
         },
         "text_kCJrYb": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Morning puffiness doesn't stand a chance. The ORAVELLE Sculpting Brush drains trapped fluid, defines your jawline, and lifts your cheekbones — in just 90 seconds. Ultra-soft bristles glide effortlessly on even the most sensitive skin. Your at-home facial, every single morning.</p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_FATJ3T": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_kDwt9J",
-        "text_kCJrYb"
+        "subheading_9drFUK",
+        "subheading_aCWFHm",
+        "text_kCJrYb",
+        "button_FATJ3T"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
