@@ -186,7 +186,7 @@
         "subheading_TeMVLm": {
           "type": "subheading",
           "settings": {
-            "subheading": "Add a tagline",
+            "subheading": "Glow Collection · ORAVELLE",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -226,6 +226,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/pink-collagen-glow-balm-oravelle.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -296,7 +297,7 @@
         "subheading_9drFUK": {
           "type": "subheading",
           "settings": {
-            "subheading": "Add a tagline",
+            "subheading": "Sculpt Collection · ORAVELLE",
             "subheading_size": "h5",
             "secondary_color": false
           }
