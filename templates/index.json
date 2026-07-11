@@ -309,6 +309,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -317,6 +318,68 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_J6kTpQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zhVzC6": {
+          "type": "column",
+          "settings": {
+            "title": "Real Ingredients. Zero Shortcuts.",
+            "title_size": "h3",
+            "text": "<p>Every ORAVELLE formula is built on bio-collagen peptides clinically proven to penetrate the skin barrier — not sit on top of it.</p>",
+            "button_label": "Discover What's Inside →",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        },
+        "column_ezXBNP": {
+          "type": "column",
+          "settings": {
+            "title": "Not Everything Labeled \"Collagen\" Works.",
+            "title_size": "h3",
+            "text": "<p>The beauty market is flooded with collagen imposters. We use low-molecular-weight peptides — small enough to actually reach the dermis where transformation happens.</p>",
+            "button_label": "Discover What's Inside →",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        },
+        "column_yDwa8n": {
+          "type": "column",
+          "settings": {
+            "title": "Designed as a System. Not a Single Product.",
+            "title_size": "h3",
+            "text": "<p>Glass skin isn't one product — it's a ritual. Each ORAVELLE step is formulated to layer, amplify, and complete the one before it.</p>",
+            "button_label": "Discover What's Inside →",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column_zhVzC6",
+        "column_ezXBNP",
+        "column_yDwa8n"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "image_width": "full",
+        "columns_desktop": 3,
+        "open_in_new_tab": false,
+        "heading": "Not All Collagen Is Created Equal.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     }
   },
@@ -328,6 +391,7 @@
     "scrolling_promotion_yJEgih",
     "custom_liquid_PpUV9J",
     "guarantees_QbnCCW",
-    "image_with_text_bixRWF"
+    "image_with_text_bixRWF",
+    "multicolumn_J6kTpQ"
   ]
 }
