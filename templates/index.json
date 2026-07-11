@@ -196,6 +196,183 @@
         "padding_bottom": 20
       }
     },
+    "image_with_text_gk8HWw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VTwwGX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sleep. Wake Up Transformed.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_RcHxYB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>K-Beauty · Deep Hydration · Glass Skin by Morning</strong></p><p>While you sleep, the ORAVELLE Bio-Collagen Overnight Mask floods your skin with low-molecular collagen — plumping, smoothing, and refining pores through the night. Peel it off in the morning and meet the skin you've always wanted: dewy, luminous, undeniably glass.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_XJatN9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover the Ritual",
+            "button_link": "shopify://products/bio-collagen-facial-mask-4pcs",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VTwwGX",
+        "text_RcHxYB",
+        "button_XJatN9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#000000",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Hyg4Gp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BnbC6t": {
+          "type": "heading",
+          "settings": {
+            "heading": "90 Seconds to a Sculpted Face.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_UGb6iA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lymphatic Drainage · Jawline Definition · Ultra-Soft Bristles</strong></p><p>Morning puffiness doesn't stand a chance. The ORAVELLE Sculpting Brush drains trapped fluid, defines your jawline, and lifts your cheekbones — in just 90 seconds. Ultra-soft bristles glide effortlessly on even the most sensitive skin. Your at-home facial, every single morning.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_mUPfTW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sculpt Your Glow",
+            "button_link": "shopify://products/face-massager-brush",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BnbC6t",
+        "text_UGb6iA",
+        "button_mUPfTW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#000000",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_LW7Mgr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q674kf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Skin, But Luminous.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_Ed7zFy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Vegan · Collagen-Infused · Glass-Skin Finish</strong></p><p>One twist. That's all it takes. The ORAVELLE Pink Collagen Glow Balm melts weightlessly into skin, delivering an instant dewy, lit-from-within radiance. Wear it bare for effortless glass skin — or layer it over makeup for a fresh, editorial finish. Multi-use. Pocket-size. Endlessly glowing.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_ibyGXn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Glow",
+            "button_link": "shopify://products/pink-collagen-multi-balm-stick",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_q674kf",
+        "text_Ed7zFy",
+        "button_ibyGXn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#000000",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "custom_liquid_PpUV9J": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -505,6 +682,9 @@
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
+    "image_with_text_gk8HWw",
+    "image_with_text_Hyg4Gp",
+    "image_with_text_LW7Mgr",
     "custom_liquid_PpUV9J",
     "guarantees_QbnCCW",
     "multicolumn_PNHKca",
