@@ -259,6 +259,68 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_PNHKca": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Lfgfak": {
+          "type": "column",
+          "settings": {
+            "title": "Low-Molecular Collagen",
+            "title_size": "h3",
+            "text": "<p>Penetrates deep. Not just surface-level hydration.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column_XKxmPA": {
+          "type": "column",
+          "settings": {
+            "title": "Beware of Imitations",
+            "title_size": "h3",
+            "text": "<p>Most collagen can't be absorbed. Ours can.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column_qYMj4D": {
+          "type": "column",
+          "settings": {
+            "title": "K-Beauty Sourced",
+            "title_size": "h3",
+            "text": "<p>Formulated in South Korea — where glass skin was born.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column_Lfgfak",
+        "column_XKxmPA",
+        "column_qYMj4D"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "image_width": "full",
+        "columns_desktop": 3,
+        "open_in_new_tab": false,
+        "heading": "The ORAVELLE Standard",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_bixRWF": {
       "type": "image-with-text",
       "blocks": {
@@ -381,6 +443,60 @@
         "padding_top": 48,
         "padding_bottom": 48
       }
+    },
+    "rich_text_y3XA4y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MGXeCC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Born in Seoul. Proven by Science.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_4gty7q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Glass skin isn't a filter. It's a formula. ORAVELLE is built on South Korea's most advanced bio-collagen technology — low-molecular peptides that work at the cellular level. No fillers. No shortcuts.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        },
+        "button_DWPm9N": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover What's Inside →",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MGXeCC",
+        "text_4gty7q",
+        "button_DWPm9N"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -391,7 +507,9 @@
     "scrolling_promotion_yJEgih",
     "custom_liquid_PpUV9J",
     "guarantees_QbnCCW",
+    "multicolumn_PNHKca",
     "image_with_text_bixRWF",
-    "multicolumn_J6kTpQ"
+    "multicolumn_J6kTpQ",
+    "rich_text_y3XA4y"
   ]
 }
