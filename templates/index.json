@@ -246,6 +246,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": true,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#000000",
@@ -306,6 +307,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": true,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#000000",
@@ -366,6 +368,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": true,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#000000",
@@ -448,7 +451,7 @@
             "title": "Low-Molecular Collagen",
             "title_size": "h3",
             "text": "<p>Penetrates deep. Not just surface-level hydration.</p>",
-            "button_label": "Button label",
+            "button_label": "Discover More",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -459,7 +462,7 @@
             "title": "Beware of Imitations",
             "title_size": "h3",
             "text": "<p>Most collagen can't be absorbed. Ours can.</p>",
-            "button_label": "Button label",
+            "button_label": "Learn Why",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -470,7 +473,7 @@
             "title": "K-Beauty Sourced",
             "title_size": "h3",
             "text": "<p>Formulated in South Korea — where glass skin was born.</p>",
-            "button_label": "Button label",
+            "button_label": "Explore the Science",
             "button_link": "",
             "button_style_secondary": false
           }
