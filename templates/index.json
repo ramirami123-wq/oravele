@@ -292,6 +292,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/hf_20260704_081332_e6b822d5-0eb4-4b39-b5b0-61502085f60d.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
