@@ -75,7 +75,7 @@
         "custom_liquid_wbDEGx": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script>\n  const currentDate = new Date();\n  const startDate = new Date(currentDate);\n  startDate.setDate(currentDate.getDate() + 5);\n  const endDate = new Date(currentDate);\n  endDate.setDate(currentDate.getDate() + 7);\n</script>"
+            "custom_liquid": "<ul><li>Glass Skin in 3 Steps — de-puff, flood with collagen, glow. Morning to night, nothing else to buy.</li><li>Low-Molecular Collagen — small enough to absorb into skin instead of sitting on the surface.</li><li>Visible in 90 Seconds — the sculpting step works before your coffee does.</li><li>Cash on Delivery, Free Shipping — anywhere in Lebanon, 5–7 days, pay the driver.</li></ul>"
           }
         },
         "related_buttons": {
