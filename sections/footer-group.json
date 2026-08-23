@@ -30,7 +30,7 @@
         "newsletter_enable": true,
         "newsletter_heading": "",
         "newsletter_text": "",
-        "return_url": "",
+        "return_url": "https://oravellelb.store",
         "enable_follow_on_shop": true,
         "show_social": true,
         "social_heading": "",
@@ -39,10 +39,10 @@
         "payment_enable": true,
         "show_policy": false,
         "copyright_text": "All rights reserved",
-        "colors_text": "#FFFFFF",
-        "colors_heading": "#FFFFFF",
-        "colors_link": "#FFFFFF",
-        "colors_border": "#FFFFFF",
+        "colors_text": "#ffffff",
+        "colors_heading": "#ffffff",
+        "colors_link": "#ffffff",
+        "colors_border": "#ffffff",
         "colors_background": "#000000",
         "gradient_background": ""
       }
